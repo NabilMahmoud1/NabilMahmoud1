@@ -20,6 +20,7 @@ I'm a Flutter Developer passionate about building clean, scalable, and user-frie
 - 🎬 Movie App
 - 💬 Chat App
 - 🚗 Car App
+- 📝 Note App
 
 ## 📚 Currently Learning
 
