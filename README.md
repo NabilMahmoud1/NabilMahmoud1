@@ -44,7 +44,6 @@ To become a professional Flutter Developer and build high-quality mobile applica
 
 ### 🤝 Let's Connect
 
-I'm always interested in learning, building, and improving my skills.
-
-⭐ Feel free to explore my repositories and follow my journey!
+📱 [WhatsApp](https://wa.me/201099585448)  
+📘 [Facebook](https://www.facebook.com/share/18U62cGDnD/)
 
