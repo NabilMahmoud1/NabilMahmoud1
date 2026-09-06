@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Nabil Mahmoud
 
-<!--
-**NabilMahmoud1/NabilMahmoud1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Flutter Developer 🚀
 
-Here are some ideas to get you started:
+I'm a Flutter Developer passionate about building clean, scalable, and user-friendly mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Dart
+- Flutter
+- Firebase
+- REST APIs
+- Dio
+- Git & GitHub
+- State Management
+
+## 📱 Projects
+
+- 🌦️ Weather App
+- 🎬 Movie App
+- 💬 Chat App
+- 🚗 Car App
+
+## 📚 Currently Learning
+
+- Clean Architecture
+- MVVM
+- Advanced State Management
+
+## 🎯 Goal
+
+To become a professional Flutter Developer and build high-quality mobile applications.
+
+---
+
+⭐ Feel free to explore my repositories and follow my journey!
