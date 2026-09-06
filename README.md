@@ -4,23 +4,29 @@
 
 I'm a Flutter Developer passionate about building clean, scalable, and user-friendly mobile applications.
 
-## 🛠️ Skills
+---
 
-- Dart
-- Flutter
-- Firebase
-- REST APIs
-- Dio
-- Git & GitHub
-- State Management
+## 🛠️ Tech Stack
 
-## 📱 Projects
+- 💙 Flutter
+- 🎯 Dart
+- 🔥 Firebase
+- 🌐 REST APIs
+- 🚀 Dio
+- 🧠 State Management
+- 🌿 Git & GitHub
 
+---
+
+## 📱 My Projects
+
+- 📝 Note App
 - 🌦️ Weather App
 - 🎬 Movie App
 - 💬 Chat App
 - 🚗 Car App
-- 📝 Note App
+
+---
 
 ## 📚 Currently Learning
 
@@ -28,10 +34,17 @@ I'm a Flutter Developer passionate about building clean, scalable, and user-frie
 - MVVM
 - Advanced State Management
 
-## 🎯 Goal
+---
+
+## 🎯 My Goal
 
 To become a professional Flutter Developer and build high-quality mobile applications.
 
 ---
 
+### 🤝 Let's Connect
+
+I'm always interested in learning, building, and improving my skills.
+
 ⭐ Feel free to explore my repositories and follow my journey!
+
